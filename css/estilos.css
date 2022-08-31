@@ -1,0 +1,36 @@
+header{
+    background-color: rgb(155, 4, 155);  /*color de fondo header*/
+}
+
+
+footer{
+    background-color: rgb(155, 4, 155);  /* color de fondo footer*/
+
+}
+
+h1,h2{
+    color: rgb(255, 255, 255);  /*color texto , subrayado y padding*/
+    text-decoration: underline;
+    padding-left: 25px;
+    padding-left: 15px;
+    
+}
+
+.blanco{
+    color: white;   /* color de letra*/
+}
+
+.fondoImagenI{
+    background-image: url(../assets/img/fondoindex.jpg)  /*fondo imagen index*/
+}
+
+.padding{
+    padding-left: 25px;  /*padding cards*/
+
+
+}
+
+.fondoImagenC{
+    background-image: url(../assets/img/fondocontacto.jpg);
+}
+
