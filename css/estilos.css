@@ -25,7 +25,8 @@ h1,h2{
 }
 
 .padding{
-    padding-left: 25px;  /*padding cards*/
+    padding-left: 25px;        /*padding cards*/
+    padding-bottom: 15px;
 
 
 }
